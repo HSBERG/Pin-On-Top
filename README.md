@@ -2,7 +2,7 @@
 Always-On-Top Pinterest Client tool
 
 
-# Currently has a build for windows & linux. I don't have access to a mac. 
+# Currently has a build for windows & linux
 
 Windows
 - open the .exe file
