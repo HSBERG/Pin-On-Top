@@ -8,7 +8,7 @@ Windows
 - open the .exe file
 
 Linux
-./pinterest
+- ./pinterest
 
 # If you're inclined to build it yourself, it's based on nativefier and electron.
 
